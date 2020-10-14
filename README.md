@@ -13,7 +13,7 @@
 - 示例
 
 ```python
-python padding.py 2.png 1.png . 0.3 0.8
+python padding.py 1.png 3.png . 0.3 0.8
 ```
 
 
