@@ -25,6 +25,6 @@ python padding.py 2.png 1.png . 0.3 0.8
 - 示例
 
 ```
-file_nums.sh .
+sh file_nums.sh .
 ```
 
